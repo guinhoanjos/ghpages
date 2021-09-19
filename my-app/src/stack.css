@@ -1,0 +1,21 @@
+.stack-icon{
+  width: 60px;
+}
+
+.stack-container{
+  display: flex;
+  width: 80%;
+  border: black solid 2px;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 255);
+  margin-bottom:20px ;
+}
+.stack-container h4{
+  font-size: 15px;
+}
+.stack-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px 20px 20px 20px;
+}
