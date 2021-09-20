@@ -13,9 +13,7 @@
   margin: 20px;
   display: flex;
   justify-content: space-around;
-  padding-left: 70px;
-  padding-right: 70px;
-  align-items:flex-end;
+  align-items:center;
   width: 80%;
   border: black solid 2px;
 }
