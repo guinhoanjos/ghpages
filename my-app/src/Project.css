@@ -1,0 +1,25 @@
+.project-image {
+  width: 400px;
+  margin: 15px;
+  border: 3px black solid;
+}
+
+.nav-link-project{
+  margin-bottom: 10px;
+}
+
+.project-container {
+  display: flex;
+  width: 80%;
+  border: black solid 2px;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 255);
+}
+
+.mid-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 15px;
+  margin-right: 20px;
+}

@@ -2,9 +2,12 @@ import React from 'react';
 
 function Header(){
   return(
-    <div className="header">
-      <h1>header</h1>
-    </div>
+    <nav className="header">
+      <h2>Sobre mim</h2>
+      <h2>Minhas Stacks</h2>
+      <h2>Meus projetos</h2>
+      <h2>Contato</h2>
+    </nav>
   )
 }
 

@@ -1,5 +1,7 @@
 import './App.css';
 import './stack.css';
+import './Project.css';
+import './Header.css'
 import Home from './pages/home';
 import {BrowserRouter, Switch, Route} from 'react-router-dom'
 function App() {
