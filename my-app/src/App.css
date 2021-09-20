@@ -5,6 +5,8 @@
   object-position: 100% 22%; /* try 20% 10% */
   border-radius: 100%;
   margin: 20px;
+  flex-shrink: 1;
+  flex-wrap: wrap;
 }
 
 .who-i-am {
@@ -16,12 +18,14 @@
   align-items:center;
   width: 80%;
   border: black solid 2px;
+  flex-wrap: wrap;
 }
 
 .who-i-am-text{
   width: 400px;
   padding-left: 30px;
   padding-right: 30px;
+  flex-shrink: 2;
 }
 .header {
   width: 100%;
