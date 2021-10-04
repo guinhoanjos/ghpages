@@ -1,4 +1,12 @@
-.header {
+.header-navigation {
   display: flex;
   justify-content: space-around;
+  font-size: calc(0.9em + 0.8vw);
+  background-color: cornsilk;
+  width: 100%;
+}
+
+
+@media (max-width: 530px) {
+  
 }

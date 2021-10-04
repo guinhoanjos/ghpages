@@ -1,10 +1,10 @@
 .project-image {
-  width: 400px;
   margin: 15px;
   border: 3px black solid;
+  width: 400px;
 }
 
-.nav-link-project{
+.nav-link-project {
   margin-bottom: 10px;
 }
 
@@ -23,4 +23,15 @@
   justify-content: space-between;
   margin-left: 15px;
   margin-right: 20px;
+}
+@media (max-width: 530px) {
+  body {
+    background-color: rgb(226, 43, 58);
+  }
+  .project-image {
+    width: 60%;
+  }
+  .project-container {
+    align-items: center;
+  }
 }

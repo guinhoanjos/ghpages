@@ -4,7 +4,7 @@ import dataStacks from '../Data/dataStacks';
 export default function Stacks(){
 
   return(
-  <div className="stack-container">
+  <div id="my-stacks" className="stack-container">
     {dataStacks.map((stack, index) => (
       <div key={index} className="stack-card">
         <h4>{stack.nome}</h4>

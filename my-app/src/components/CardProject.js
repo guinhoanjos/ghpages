@@ -11,7 +11,7 @@ function imageProject(projectName){
 }
 export default function CardProjects({project}){
   return(
-    <div className="project-container">
+    <div id="my-projects"className="project-container">
       <img
       alt="imagem do projeto"
       src={imageProject(project.nome)}

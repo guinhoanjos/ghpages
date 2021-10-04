@@ -2,11 +2,25 @@ import React from 'react';
 
 function Header(){
   return(
-    <nav className="header">
-      <h2>Sobre mim</h2>
-      <h2>Minhas Stacks</h2>
-      <h2>Meus projetos</h2>
-      <h2>Contato</h2>
+    <nav className="header-navigation">
+      <a
+      className="header-link"
+      href="#about-me"
+      >
+        Sobre mim
+      </a>
+      <a
+      className="header-link"
+      href="#my-stacks"
+      >Minhas Stacks</a>
+      <a
+      className="header-link"
+      href="#my-projects"
+      >Meus projetos</a>
+      <a
+      href="#contact"
+      className="header-link"
+      >Contato</a>
     </nav>
   )
 }

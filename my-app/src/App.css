@@ -18,14 +18,19 @@
   align-items:center;
   width: 80%;
   border: black solid 2px;
+  height: auto;
   flex-wrap: wrap;
+  font-size: calc(0.5em + 0.8vw);
 }
 
 .who-i-am-text{
   width: 400px;
+  flex-wrap: wrap;
   padding-left: 30px;
   padding-right: 30px;
   flex-shrink: 2;
+  font-size: calc(0.5em + 1vw);
+  width: auto;
 }
 .header {
   width: 100%;
