@@ -6,7 +6,7 @@ a{
 }
 .foto-perfil {
   width: 22em; /* width of container */
-  height: 22em; /* height of container */
+  height: 20.5em; /* height of container */
   object-fit: cover;
   object-position: 100% 22%; /* try 20% 10% */
   border-radius: 100%;

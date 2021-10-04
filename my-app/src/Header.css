@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-around;
   font-size: calc(0.9em + 0.8vw);
-  background-color: cornsilk;
+  background-color: rgb(89, 139, 139);
   width: 100%;
 }
 
