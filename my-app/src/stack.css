@@ -1,7 +1,6 @@
 .stack-icon{
-  width: 60px;
+  width: calc(1.5em + 1.5vw);
 }
-
 .stack-container{
   display: flex;
   width: 80%;
@@ -10,9 +9,6 @@
   background-color: rgb(255, 255, 255);
   margin-bottom:20px ;
   flex-wrap: wrap;
-}
-.stack-container h4{
-  font-size: 15px;
 }
 .stack-card{
   display: flex;

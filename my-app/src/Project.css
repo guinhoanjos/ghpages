@@ -1,7 +1,7 @@
 .project-image {
-  margin: 15px;
+  margin: 1em;
   border: 3px black solid;
-  width: 400px;
+  width: 70%;
 }
 
 .nav-link-project {
@@ -14,7 +14,7 @@
   border: black solid 2px;
   border-radius: 15px;
   background-color: rgb(255, 255, 255);
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .mid-container {
@@ -23,15 +23,13 @@
   justify-content: space-between;
   margin-left: 15px;
   margin-right: 20px;
+  font-size: calc(0.7em + 0.8vw);
 }
-@media (max-width: 530px) {
-  body {
-    background-color: rgb(226, 43, 58);
-  }
-  .project-image {
-    width: 60%;
-  }
+
+@media (max-width: 800px) {
   .project-container {
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
   }
 }

@@ -6,7 +6,7 @@ function imageProject(projectName){
     case "Starwars Planets  Search":
       return Starwars;
     default:
-      return "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"
+      return Starwars;
   }
 }
 export default function CardProjects({project}){

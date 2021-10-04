@@ -5,7 +5,7 @@ const dataStacks = [
   },
   {
     nome:"CSS",
-    icone:"https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"
+    icone:"https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"
   },  
     {
     nome:"HTML",
