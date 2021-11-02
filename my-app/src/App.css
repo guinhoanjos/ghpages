@@ -1,8 +1,12 @@
 p{
-  font-size: calc(0.5em + 0.5vw);
+  font-size: calc(0.8em + 0.5vw);
 }
 a{
   text-decoration: none;
+}
+h1{
+  font-size: calc(1.5em + 0.5vw);
+
 }
 .foto-perfil {
   width: 22em; /* width of container */
