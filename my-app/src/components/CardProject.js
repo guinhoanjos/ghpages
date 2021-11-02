@@ -19,7 +19,7 @@ export default function CardProjects({project}){
       />
       <div className="mid-container">
         <div>
-          <h4>{project.nome}</h4>
+          <h3>{project.nome}</h3>
           <p>{project.descricao}</p>
         </div>
         <nav className="nav-link-project">
