@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ghpages/static/css/main.ad56862a.chunk.css",
-    "main.js": "/ghpages/static/js/main.f4c24597.chunk.js",
-    "main.js.map": "/ghpages/static/js/main.f4c24597.chunk.js.map",
+    "main.css": "/ghpages/static/css/main.b7d09638.chunk.css",
+    "main.js": "/ghpages/static/js/main.1141e51a.chunk.js",
+    "main.js.map": "/ghpages/static/js/main.1141e51a.chunk.js.map",
     "runtime-main.js": "/ghpages/static/js/runtime-main.7635104e.js",
     "runtime-main.js.map": "/ghpages/static/js/runtime-main.7635104e.js.map",
     "static/js/2.db38560b.chunk.js": "/ghpages/static/js/2.db38560b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.050d42cf.chunk.js": "/ghpages/static/js/3.050d42cf.chunk.js",
     "static/js/3.050d42cf.chunk.js.map": "/ghpages/static/js/3.050d42cf.chunk.js.map",
     "index.html": "/ghpages/index.html",
-    "static/css/main.ad56862a.chunk.css.map": "/ghpages/static/css/main.ad56862a.chunk.css.map",
+    "static/css/main.b7d09638.chunk.css.map": "/ghpages/static/css/main.b7d09638.chunk.css.map",
     "static/js/2.db38560b.chunk.js.LICENSE.txt": "/ghpages/static/js/2.db38560b.chunk.js.LICENSE.txt",
     "static/media/Starwars.92b7c563.gif": "/ghpages/static/media/Starwars.92b7c563.gif",
     "static/media/foto-perfil.bad59ed1.jpeg": "/ghpages/static/media/foto-perfil.bad59ed1.jpeg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.7635104e.js",
     "static/js/2.db38560b.chunk.js",
-    "static/css/main.ad56862a.chunk.css",
-    "static/js/main.f4c24597.chunk.js"
+    "static/css/main.b7d09638.chunk.css",
+    "static/js/main.1141e51a.chunk.js"
   ]
 }
